@@ -36,13 +36,13 @@ public class Ejemplo31 {
                 datos[1] = datos[1] + 1;
             }else{
                 if(cantidad >=12.1 && cantidad <= 16){
-                datos[2] = datos[2] + 1;
+                    datos[2] = datos[2] + 1;
                 }else{
                     if(cantidad >=16.1 && cantidad <= 19){
-                    datos[3] = datos[3] + 1;
+                        datos[3] = datos[3] + 1;
                     }else{
                             if(cantidad >=19.1 && cantidad <= 20){
-                            datos[4] = datos[4] + 1;   
+                                 datos[4] = datos[4] + 1;   
                             }else{
                                 datos[5] = datos[5] + 1;
                          }
