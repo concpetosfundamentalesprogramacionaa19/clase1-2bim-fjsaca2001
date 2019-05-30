@@ -64,7 +64,7 @@ public class Ejemplo31 {
         // presentacion de datos
         System.out.println("Notas ingresadas...\nRangos: ");
         for (int i = 0; i < datos.length; i++) {
-            System.out.printf("%s - %d\n", rangos[i], datos[i]);
+            System.out.printf("%s = %d\n", rangos[i], datos[i]);
         }
     }
 }
